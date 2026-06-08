@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "108570294986",
+    "project_id": "le-messie",
+    "storage_bucket": "le-messie.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:108570294986:android:844ab6027559c072845233",
+        "android_client_info": {
+          "package_name": "com.lili.bebe"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "108570294986-4s93fj0r7opt388tpkrs91r3h08045l9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBvgXQHXNELUUFsUFj9Ocs8JBsnPse389U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "108570294986-0euq7if07fic2v6r8lb9st0ai34k2uj4.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "108570294986-8d352vq380s2dodavba0u5f5fu6jroe7.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.lili.bebe"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
